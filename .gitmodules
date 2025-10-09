@@ -1,3 +1,6 @@
 [submodule "word-count_spark-airflow"]
 	path = spark-lab
 	url = git@github.com:Lunfeer/word-count_spark-airflow.git
+[submodule "w4-polars-tutorial-and-spurious-correlations-MadeInShineA"]
+	path = w4-polars-tutorial-and-spurious-correlations-MadeInShineA
+	url = git@github.com:isc-hei-classrooms/w4-polars-tutorial-and-spurious-correlations-MadeInShineA.git
