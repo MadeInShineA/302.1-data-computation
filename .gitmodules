@@ -4,3 +4,6 @@
 [submodule "w4-polars-tutorial-and-spurious-correlations-MadeInShineA"]
 	path = w4-polars-tutorial-and-spurious-correlations-MadeInShineA
 	url = git@github.com:isc-hei-classrooms/w4-polars-tutorial-and-spurious-correlations-MadeInShineA.git
+[submodule "w5-second-data-challenge-equipe"]
+	path = w5-second-data-challenge-equipe
+	url = git@github.com:isc-hei-classrooms/w5-second-data-challenge-equipe.git
