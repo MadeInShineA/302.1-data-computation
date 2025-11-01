@@ -7,3 +7,6 @@
 [submodule "w5-second-data-challenge-equipe"]
 	path = w5-second-data-challenge-equipe
 	url = git@github.com:isc-hei-classrooms/w5-second-data-challenge-equipe.git
+[submodule "302_HPC_course"]
+	path = 302_HPC_course
+	url = git@github.com:MadeInShineA/302_HPC_course.git
