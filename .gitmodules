@@ -10,3 +10,6 @@
 [submodule "302_HPC_course"]
 	path = 302_HPC_course
 	url = git@github.com:MadeInShineA/302_HPC_course.git
+[submodule "w8-cuda-implementation-of-ray-tracer-cud-tr4c3r"]
+	path = w8-cuda-implementation-of-ray-tracer-cud-tr4c3r
+	url = git@github.com:isc-hei-classrooms/w8-cuda-implementation-of-ray-tracer-cud-tr4c3r.git
